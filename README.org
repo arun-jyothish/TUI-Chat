@@ -1,0 +1,4 @@
+* TUI-Chat
+	Local chat system, terminal user interface chat application
+
+opens udp port and can chat with fellow developer within terminal where they're locally connected
